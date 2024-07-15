@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Alcool ou gasolina</string>
+    <string name="label_info">Saiba a melhor opção de abastecimento do seu carro!</string>
+    <string name="hint_gasoline">Preço gasolina ex: 2.60</string>
+    <string name="hint_alcohol">Preço álcool ex: 1.90</string>
+    <string name="btn_label_calculate">CALCULAR</string>
+    <string name="value_result">Resultado</string>
+    <string name="error_validate_fields_empty">Todos os campos precisam estar preenchidos!</string>
+    <string name="error_validate_fields_invalid">Valores inválidos</string>
+    <string name="result_better_gasoline">Melhor utilizar gasolina</string>
+    <string name="result_better_alcohol">Melhor utilizar álcool</string>
+</resources>
